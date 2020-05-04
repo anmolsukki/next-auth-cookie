@@ -1,4 +1,4 @@
-import Layout from "../components/Layout";
+import Layout from "../Components/Layout";
 import LoginForm from "../Components/LoginForm";
 import { authInitialProps } from "../lib/auth";
 
