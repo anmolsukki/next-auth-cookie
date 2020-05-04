@@ -1,5 +1,5 @@
 import Layout from "../components/Layout";
-import LoginForm from "../components/LoginForm";
+import LoginForm from "../Components/LoginForm";
 import { authInitialProps } from "../lib/auth";
 
 export default function Login(props) {

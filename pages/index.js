@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Layout from "../components/Layout";
+import Layout from "../Components/Layout";
 import { authInitialProps } from "../lib/auth";
 
 export default function Home(props) {
